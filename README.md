@@ -21,7 +21,7 @@
                       x                                                     x
                       x  p8                     p1                      p2  x
                       x                                                     x
-		      xxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxx
-						O(0,0)
+		          xxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+		    				    O(0,0)
 			    
 				
